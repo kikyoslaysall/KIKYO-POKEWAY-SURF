@@ -1,0 +1,9 @@
+{
+  "name": "Pokeway Surf",
+  "short_name": "Pokeway",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "description": "An offline Pok\u00e9mon-inspired endless runner by dev Kikyo."
+}
